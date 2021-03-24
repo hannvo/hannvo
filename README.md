@@ -3,7 +3,7 @@
   
 I am Hannah, a web developer and artist.  
   
-<img width="150" alt="fs11klein" src="https://user-images.githubusercontent.com/76390438/112297934-c00d1d00-8c96-11eb-9772-57199097827a.png">
+<img width="300" alt="fs11klein" src="https://user-images.githubusercontent.com/76390438/112297934-c00d1d00-8c96-11eb-9772-57199097827a.png">
   
 🔭 I’m currently working on a web app to facilitate art Q\&As online   
 🌱 I’m currently learning more about TDD and Javascript   
